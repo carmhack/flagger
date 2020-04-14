@@ -1,5 +1,6 @@
 # flagger
 A flag generator made with Vue and P5.  
+Demo: https://gallant-einstein-2d2d77.netlify.com/
 
 To install:
 > npm install
