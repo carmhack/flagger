@@ -15,6 +15,6 @@ Actual features:
 - Decide to show a coat of arms and choose from a presets of 12 images
 - Export your canvas to PNG
 
-Road map:
+Maybe next:
 - Choose between different flag models (one color, two bands, tricolor, striped, etc.)
 - Choose the position of coat of arms
