@@ -3,10 +3,10 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-          {{ title }}
+          Flagger
         </h1>
         <h2 class="subtitle">
-          {{ subtitle }}
+          Made with love by Adriano Grimaldi aka carmhack
         </h2>
       </div>
     </div>
